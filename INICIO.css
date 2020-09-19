@@ -1,0 +1,112 @@
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/9780369-tablas-de-madera-marrn-vintage-como-fondo.jpg"); background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 681px}
+.u-section-1 .u-layout-wrap-1 {width: 1140px; margin: 61px auto 60px 0}
+.u-section-1 .u-layout-cell-1 {min-height: 609px; animation-duration: 1000ms}
+.u-section-1 .u-container-layout-1 {padding: 20px 40px}
+.u-section-1 .u-text-1 {font-family: "Archivo Black"; font-size: 4.375rem; text-transform: uppercase; text-shadow: 2px 2px 8px rgba(128,128,128,1); margin: 139px 0 0}
+.u-section-1 .u-text-2 {font-size: 1.5rem; font-weight: 700; margin: 0}
+.u-section-1 .u-text-3 {text-shadow: 0 2px 8px rgba(128,128,128,1); font-size: 1.5rem; font-weight: 700; margin: 34px 0 0}
+.u-section-1 .u-container-layout-2 {padding: 30px}
+.u-section-1 .u-image-1 {width: 525px; height: 525px; margin: -6px auto -6px -30px} 
+
+@media (max-width: 1199px){ .u-section-1 {min-height: 538px}
+.u-section-1 .u-sheet-1 {min-height: 538px}
+.u-section-1 .u-layout-wrap-1 {width: 940px; margin-top: -311px}
+.u-section-1 .u-layout-cell-1 {min-height: 502px}
+.u-section-1 .u-text-1 {font-size: 3.75rem}
+.u-section-1 .u-image-1 {width: 385px; height: 385px; margin-left: 0} }
+
+@media (max-width: 991px){ .u-section-1 {min-height: 608px}
+.u-section-1 .u-sheet-1 {min-height: 608px}
+.u-section-1 .u-layout-wrap-1 {width: 720px; margin-top: -284px}
+.u-section-1 .u-layout-cell-1 {min-height: 100px}
+.u-section-1 .u-container-layout-1 {padding-right: 20px; padding-left: 30px}
+.u-section-1 .u-text-1 {font-size: 3rem}
+.u-section-1 .u-image-1 {width: 275px; height: 275px} }
+
+@media (max-width: 767px){ .u-section-1 {min-height: 995px}
+.u-section-1 .u-sheet-1 {min-height: 995px}
+.u-section-1 .u-layout-wrap-1 {width: 540px; margin-top: -511px}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-1 {min-height: 927px}
+.u-section-1 .u-sheet-1 {min-height: 927px}
+.u-section-1 .u-layout-wrap-1 {width: 340px; margin-top: -549px}
+.u-section-1 .u-text-1 {font-size: 2.25rem}
+.u-section-1 .u-text-2 {font-size: 1.125rem} }.u-section-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/9780369-tablas-de-madera-marrn-vintage-como-fondo.jpg"); background-position: 50% 50%}
+.u-section-2 .u-sheet-1 {min-height: 529px}
+.u-section-2 .u-layout-wrap-1 {margin: 60px auto 60px 0}
+.u-section-2 .u-layout-cell-1 {min-height: 409px}
+.u-section-2 .u-container-layout-1 {padding: 30px 60px}
+.u-section-2 .u-text-1 {font-size: 3.75rem; text-shadow: -2px 2px 8px rgba(128,128,128,1); margin: 0}
+.u-section-2 .u-text-2 {font-weight: 700; font-size: 1.25rem; margin: 20px 0 0}
+.u-section-2 .u-image-1 {min-height: 409px; background-image: url("images/WhatsAppImage2020-09-18at8.58.08PM.jpeg"); background-position: 50% 50%}
+.u-section-2 .u-container-layout-2 {padding: 30px} 
+
+@media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 436px}
+.u-section-2 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-2 .u-layout-cell-1 {min-height: 337px}
+.u-section-2 .u-image-1 {min-height: 337px} }
+
+@media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 334px}
+.u-section-2 .u-layout-cell-1 {min-height: 100px}
+.u-section-2 .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
+.u-section-2 .u-image-1 {min-height: 258px} }
+
+@media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 251px}
+.u-section-2 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-image-1 {min-height: 430px}
+.u-section-2 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 158px}
+.u-section-2 .u-text-1 {font-size: 1.5rem}
+.u-section-2 .u-image-1 {min-height: 366px} }.u-section-3 {background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/9780369-tablas-de-madera-marrn-vintage-como-fondo.jpg"); background-position: 50% 50%}
+.u-section-3 .u-sheet-1 {min-height: 500px}
+.u-section-3 .u-layout-wrap-1 {margin-top: 60px; margin-bottom: 60px}
+.u-section-3 .u-layout-cell-1 {min-height: 254px}
+.u-section-3 .u-container-layout-1 {padding: 30px}
+.u-section-3 .u-text-1 {text-transform: none; font-size: 2.25rem; font-weight: 700; text-shadow: 2px 2px 8px rgba(128,128,128,1); margin: 0}
+.u-section-3 .u-text-2 {font-size: 1.5rem; font-weight: 700; margin: 20px 0 0}
+.u-section-3 .u-layout-cell-2 {min-height: 246px}
+.u-section-3 .u-container-layout-2 {padding: 30px}
+.u-section-3 .u-text-3 {text-transform: none; font-size: 2.25rem; font-weight: 700; text-shadow: 2px 2px 8px rgba(128,128,128,1); margin: 14px 0 0}
+.u-section-3 .u-social-icons-1 {white-space: nowrap; height: 61px; min-height: 16px; width: 142px; min-width: 52px; margin: 23px auto 0 0}
+.u-section-3 .u-icon-1 {height: 100%}
+.u-section-3 .u-icon-2 {height: 100%}
+.u-section-3 .u-layout-cell-3 {min-height: 72px}
+.u-section-3 .u-container-layout-3 {padding: 30px 40px 0}
+.u-section-3 .u-text-4 {text-transform: none; font-size: 2.25rem; font-weight: 700; text-shadow: 2px 2px 8px rgba(0,0,0,0.4); margin: 0}
+.u-section-3 .u-layout-cell-4 {min-height: 428px}
+.u-section-3 .u-container-layout-4 {padding: 30px}
+.u-section-3 .u-form-1 {margin: 0}
+.u-section-3 .u-btn-1 {background-image: none; border-style: none} 
+
+@media (max-width: 1199px){ .u-section-3 .u-sheet-1 {min-height: 324px}
+.u-section-3 .u-layout-cell-1 {min-height: 209px}
+.u-section-3 .u-layout-cell-2 {min-height: 203px}
+.u-section-3 .u-layout-cell-3 {min-height: 59px}
+.u-section-3 .u-layout-cell-4 {min-height: 353px} }
+
+@media (max-width: 991px){ .u-section-3 .u-sheet-1 {min-height: 227px}
+.u-section-3 .u-layout-cell-1 {min-height: 100px}
+.u-section-3 .u-layout-cell-2 {min-height: 100px}
+.u-section-3 .u-layout-cell-3 {min-height: 15px}
+.u-section-3 .u-container-layout-3 {padding-left: 30px; padding-right: 30px}
+.u-section-3 .u-layout-cell-4 {min-height: 100px}
+.u-section-3 .u-container-layout-4 {padding-left: 20px; padding-right: 20px} }
+
+@media (max-width: 767px){ .u-section-3 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-3 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-3 .u-container-layout-3 {padding-left: 10px; padding-right: 10px}
+.u-section-3 .u-container-layout-4 {padding-left: 0; padding-right: 0} }
+
+@media (max-width: 575px){ .u-section-3 .u-sheet-1 {min-height: 110px}
+.u-section-3 .u-layout-cell-1 {min-height: 63px}
+.u-section-3 .u-layout-cell-2 {min-height: 63px}
+.u-section-3 .u-layout-cell-3 {min-height: 9px}
+.u-section-3 .u-layout-cell-4 {min-height: 63px}
+.u-section-3 .u-form-group-1 {width: 100%}
+.u-section-3 .u-form-group-2 {width: 100%}
+.u-section-3 .u-form-group-3 {width: 100%}
+.u-section-3 .u-form-group-4 {width: 100%} }
